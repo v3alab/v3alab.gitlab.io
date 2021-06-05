@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ian Reid | V3ALab</title>
+    <link>/author/ian-reid/</link>
+      <atom:link href="/author/ian-reid/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ian Reid</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jun 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Ian Reid</title>
+      <link>/author/ian-reid/</link>
+    </image>
+    
+    <item>
+      <title>Are You Talking to Me? Reasoned Visual Dialog Generation through Adversarial Learning</title>
+      <link>/publication/45/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/45/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Parallel Attention: A Unified Framework for Visual Object Discovery through Dialogs and Queries</title>
+      <link>/publication/46/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/46/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vision-and-Language Navigation: Interpreting visually-grounded navigation instructions in real environments</title>
+      <link>/publication/48/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/48/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Visual Question Answering with Memory-Augmented Networks</title>
+      <link>/publication/50/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/50/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HCVRD: a benchmark for large-scale Human-Centered Visual Relationship Detection</title>
+      <link>/publication/52/</link>
+      <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/52/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

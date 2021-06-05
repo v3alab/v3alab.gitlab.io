@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jian Zhang | V3ALab</title>
+    <link>/author/jian-zhang/</link>
+      <atom:link href="/author/jian-zhang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jian Zhang</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Jian Zhang</title>
+      <link>/author/jian-zhang/</link>
+    </image>
+    
+    <item>
+      <title>Jo-SRC: A Contrastive Approach for Combating Noisy Labels</title>
+      <link>/publication/66/</link>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/66/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Non-Salient Region Object Mining for Weakly Supervised Semantic Segmentation</title>
+      <link>/publication/67/</link>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/67/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Heritage Image Annotation via Collective Knowledge</title>
+      <link>/publication/7/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/7/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Multi-Label Image Classification with Regional Latent Semantic Dependencies</title>
+      <link>/publication/11/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/11/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Mind Your Neighbours: Image Annotation with Metadata Neighbourhood Graph Co-Attention Networks</title>
+      <link>/publication/43/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/43/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Asking the Difficult Questions: Goal-Oriented Visual Question Generation via Intermediate Rewards</title>
+      <link>/publication/44/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/44/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kill Two Birds With One Stone: Weakly-Supervised Neural Network for Image Annotation and Tag Refinement</title>
+      <link>/publication/53/</link>
+      <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/53/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

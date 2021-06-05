@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jianfeng Lu | V3ALab</title>
+    <link>/author/jianfeng-lu/</link>
+      <atom:link href="/author/jianfeng-lu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jianfeng Lu</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jun 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Jianfeng Lu</title>
+      <link>/author/jianfeng-lu/</link>
+    </image>
+    
+    <item>
+      <title>Asking the Difficult Questions: Goal-Oriented Visual Question Generation via Intermediate Rewards</title>
+      <link>/publication/44/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/44/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kill Two Birds With One Stone: Weakly-Supervised Neural Network for Image Annotation and Tag Refinement</title>
+      <link>/publication/53/</link>
+      <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/53/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yihan Zheng | V3ALab</title>
+    <link>/author/yihan-zheng/</link>
+      <atom:link href="/author/yihan-zheng/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yihan Zheng</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Yihan Zheng</title>
+      <link>/author/yihan-zheng/</link>
+    </image>
+    
+    <item>
+      <title>Modular Graph Attention Network for Complex Visual Relational Reasoning</title>
+      <link>/publication/40/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/40/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
