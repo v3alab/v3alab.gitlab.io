@@ -1,5 +1,5 @@
 (() => {
-  // ns-hugo:/var/folders/vf/tsk5p08d4y1dk5w_2vvj63z40000gq/T/hugo_cache/modules/filecache/modules/pkg/mod/github.com/wowchemy/wowchemy-hugo-modules/wowchemy@v0.0.0-20201211023654-f6090cd7e55d/assets/js/wowchemy-theming.js
+  // ns-hugo:/var/folders/sk/z7k9rf5s7031klvv7hj6lxch0000gn/T/hugo_cache/modules/filecache/modules/pkg/mod/github.com/wowchemy/wowchemy-hugo-modules/wowchemy@v0.0.0-20201211023654-f6090cd7e55d/assets/js/wowchemy-theming.js
   function getThemeMode() {
     return parseInt(localStorage.getItem("wcTheme") || 2);
   }
@@ -40,7 +40,7 @@
   var wcDarkLightEnabled = false;
   var wcIsSiteThemeDark = false;
 
-  // js/wowchemy-init.js
+  // <stdin>
   window.wc = {
     darkLightEnabled: wcDarkLightEnabled,
     isSiteThemeDark: wcIsSiteThemeDark
