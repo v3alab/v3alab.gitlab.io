@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Stephen Gould | V3ALab</title>
+    <link>/author/stephen-gould/</link>
+      <atom:link href="/author/stephen-gould/index.xml" rel="self" type="application/rss+xml" />
+    <description>Stephen Gould</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Stephen Gould</title>
+      <link>/author/stephen-gould/</link>
+    </image>
+    
+    <item>
+      <title>A Recurrent Vision-and-Language BERT for Navigation</title>
+      <link>/publication/63/</link>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/63/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Language and Visual Entity Relationship Graph for Agent Navigation</title>
+      <link>/publication/20/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sub-Instruction Aware Vision-and-Language Navigation</title>
+      <link>/publication/21/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vision-and-Language Navigation: Interpreting visually-grounded navigation instructions in real environments</title>
+      <link>/publication/48/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/48/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

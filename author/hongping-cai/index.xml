@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hongping Cai | V3ALab</title>
+    <link>/author/hongping-cai/</link>
+      <atom:link href="/author/hongping-cai/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hongping Cai</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Dec 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Hongping Cai</title>
+      <link>/author/hongping-cai/</link>
+    </image>
+    
+    <item>
+      <title>Beyond Photo-Domain Object Recognition: Benchmarks for the Cross-Depiction Problem</title>
+      <link>/publication/58/</link>
+      <pubDate>Tue, 01 Dec 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/58/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning Graphs to Model Visual Objects across Different Depictive Styles</title>
+      <link>/publication/59/</link>
+      <pubDate>Mon, 01 Sep 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/59/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

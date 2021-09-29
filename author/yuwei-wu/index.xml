@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yuwei Wu | V3ALab</title>
+    <link>/author/yuwei-wu/</link>
+      <atom:link href="/author/yuwei-wu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yuwei Wu</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Yuwei Wu</title>
+      <link>/author/yuwei-wu/</link>
+    </image>
+    
+    <item>
+      <title>Visual-Semantic Graph Matching for Visual Grounding</title>
+      <link>/publication/23/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Overcoming Language Priors in VQA via Decomposed Linguistic Representations</title>
+      <link>/publication/38/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/38/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
