@@ -5,12 +5,20 @@
     <link>/author/yujing-wang/</link>
       <atom:link href="/author/yujing-wang/index.xml" rel="self" type="application/rss+xml" />
     <description>Yujing Wang</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Apr 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Yujing Wang</title>
       <link>/author/yujing-wang/</link>
     </image>
+    
+    <item>
+      <title> CogTree: Cognition Tree Loss for Unbiased Scene Graph Generation</title>
+      <link>/publication/69/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/69/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Mucko: Multi-Layer Cross-Modal Knowledge Reasoning for Fact-based Visual Question Answering</title>

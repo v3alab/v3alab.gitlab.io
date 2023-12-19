@@ -5,12 +5,20 @@
     <link>/author/zizheng-pan/</link>
       <atom:link href="/author/zizheng-pan/index.xml" rel="self" type="application/rss+xml" />
     <description>Zizheng Pan</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Apr 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Zizheng Pan</title>
       <link>/author/zizheng-pan/</link>
     </image>
+    
+    <item>
+      <title>The Road to Know-Where: An Object-and-Room Informed Sequential BERT for Indoor Vision-Language Navigation</title>
+      <link>/publication/71/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/71/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Object-and-Action Aware Model for Visual Language Navigation</title>

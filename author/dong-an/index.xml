@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dong An | V3ALab</title>
+    <link>/author/dong-an/</link>
+      <atom:link href="/author/dong-an/index.xml" rel="self" type="application/rss+xml" />
+    <description>Dong An</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Dong An</title>
+      <link>/author/dong-an/</link>
+    </image>
+    
+    <item>
+      <title>Landmark-RxR: Solving Vision-and-Language Navigation with Fine-Grained Alignment Supervision</title>
+      <link>/publication/74/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/74/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neighbor-view Enhanced Model for Vision and Language Navigation</title>
+      <link>/publication/72/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/72/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Road to Know-Where: An Object-and-Room Informed Sequential BERT for Indoor Vision-Language Navigation</title>
+      <link>/publication/73/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/73/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

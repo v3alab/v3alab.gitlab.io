@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wei Suo | V3ALab</title>
+    <link>/author/wei-suo/</link>
+      <atom:link href="/author/wei-suo/index.xml" rel="self" type="application/rss+xml" />
+    <description>Wei Suo</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Wei Suo</title>
+      <link>/author/wei-suo/</link>
+    </image>
+    
+    <item>
+      <title>Proposal-free One-stage Referring Expression via Grid-Word Cross-Attention</title>
+      <link>/publication/68/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/68/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -5,12 +5,76 @@
     <link>/author/yuankai-qi/</link>
       <atom:link href="/author/yuankai-qi/index.xml" rel="self" type="application/rss+xml" />
     <description>Yuankai Qi</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jul 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Yuankai Qi</title>
       <link>/author/yuankai-qi/</link>
     </image>
+    
+    <item>
+      <title>Neighbor-view Enhanced Model for Vision and Language Navigation</title>
+      <link>/publication/72/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/72/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R-GAN: Exploring Human-like Way for Reasonable Text-to-Image Sythesis via Generative Adversarial Networks</title>
+      <link>/publication/70/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/70/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Road to Know-Where: An Object-and-Room Informed Sequential BERT for Indoor Vision-Language Navigation</title>
+      <link>/publication/73/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/73/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Road to Know-Where: An Object-and-Room Informed Sequential BERT for Indoor Vision-Language Navigation</title>
+      <link>/publication/71/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/71/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Recurrent Vision-and-Language BERT for Navigation</title>
+      <link>/publication/63/</link>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/63/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Language and Visual Entity Relationship Graph for Agent Navigation</title>
+      <link>/publication/20/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Object-and-Action Aware Model for Visual Language Navigation</title>
+      <link>/publication/27/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/27/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>REVERIE: Remote Embodied Visual Referring Expression in Real Indoor Environments</title>
+      <link>/publication/37/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/37/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

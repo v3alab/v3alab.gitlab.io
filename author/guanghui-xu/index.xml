@@ -5,12 +5,20 @@
     <link>/author/guanghui-xu/</link>
       <atom:link href="/author/guanghui-xu/index.xml" rel="self" type="application/rss+xml" />
     <description>Guanghui Xu</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Sep 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Guanghui Xu</title>
       <link>/author/guanghui-xu/</link>
     </image>
+    
+    <item>
+      <title> Debiased Visual Question Answering from Feature and Sample Perspectives</title>
+      <link>/publication/75/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/75/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Towards Accurate Text-based Image Captioning with Content Diversity Exploration</title>
